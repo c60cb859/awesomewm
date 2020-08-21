@@ -1,0 +1,2 @@
+# awesomewm
+Personal AwesomeWM config
