@@ -7,7 +7,7 @@ function run {
   fi
 }
 
-#run flameshot
+run flameshot
 run redshift
-#run guake
+run guake
 #run vm-nat
