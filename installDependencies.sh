@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo pacman -S guake flameshot redshift
+sudo pacman -S --needed guake flameshot redshift
